@@ -1,0 +1,6 @@
+framework module Pods_open_mkrTests {
+  umbrella header "Pods-open-mkrTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
